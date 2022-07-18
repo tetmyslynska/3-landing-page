@@ -1,5 +1,7 @@
-section{
+section,
+footer{
     padding: 60px 0;
+    
 }
 
 .showcase-img{
@@ -25,9 +27,7 @@ padding: 50px;
     background-position: center;
 }
 
-.btn{
-    display: block;
-}
+
 @media (max-width: 768px){
 
 .service-item,
